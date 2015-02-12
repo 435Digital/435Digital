@@ -1,13 +1,12 @@
-#### 435digital
+435digital
+=======
 Used for wiki and internal application source documents
 
-##### The Wiki
+#### The Wiki
 [Wiki](https://github.com/435Digital/435Digital/wiki)
 
-##### nmapcli
+##### Nmap Command Line Interface
 
-Nmap Command Line Interface
-=======
 nmapcli is a tool with pre defined scan templates to automate Nmap scans.
 
 Usage: ./nmapcli.py
