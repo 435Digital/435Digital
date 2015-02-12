@@ -1,9 +1,6 @@
 435digital
 =======
-Used for wiki and internal application source documents
-
-#### The Wiki
-[Wiki](https://github.com/435Digital/435Digital/wiki)
+Used for [our internal Wiki](https://github.com/435Digital/435Digital/wiki) and application source documents 
 
 ##### Nmap Command Line Interface
 
